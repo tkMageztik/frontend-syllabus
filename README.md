@@ -1,4 +1,6 @@
-Clase 1:
+# Syllabus
+
+## Clase 1:
 - Introducción al Desarrollo Frontend
   - El Flujo de una Petición HTTP
   - Flujo de Trabajo Básico en Frontend
@@ -13,7 +15,7 @@ Clase 1:
   - Creando un repositorio
   - Hacer commits y subir a un repositorio remoto
 
-Clase 2:
+## Clase 2:
 - CSS: Parte 2
   - Posicionamiento y Flotado
   - Fuentes, Imágenes, Video, Audio y otros elementos estáticos
@@ -23,14 +25,14 @@ Clase 2:
   - Funciones
   - Objetos
 
-Clase 3:
+## Clase 3:
 - Javascript: Parte 2
   - Alcance y Contexto
   - Principios de Programación Funcional
 - CSS: Parte 3
   - Maquetación Compleja: Maquetado complejo, con distintos posicionamientos y otras complicaciones
 
-- Clase 4:
+## Clase 4:
 - Javascript: Parte 3 y Manipulación del DOM
   - Objetos y Principios de Prog. Orientada a Prototipos
   - El DOM expuesto a Javascript, Consultas al DOM y Programación de Eventos
@@ -42,7 +44,7 @@ Clase 3:
     - Ajax sin jQuery (XHR)
     - Ajax con jQuery
 
-- Clase 5
+## Clase 5
 - jQuery, Underscore y BackboneJS
   - Aprendiendo a usar plugins de jQuery
   - Escribiendo un plugin de jQuery
@@ -50,6 +52,6 @@ Clase 3:
   - Client Side Templates
   - Introducción a BackboneJS
 
-- Clase 6
+## Clase 6
 - Construcción de una SPA(Single Page Applications)
   - NOTA: Preguntar si desean Angular o Backbone. Los puntos dependen de esta elección.
