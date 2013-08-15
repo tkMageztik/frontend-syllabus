@@ -55,3 +55,5 @@
 ## Clase 6
 - Construcción de una SPA(Single Page Applications)
   - Usar Backbone
+  
+## Incluir propuestos a desarrollar durante la semana, antes de la siguiente clase.
