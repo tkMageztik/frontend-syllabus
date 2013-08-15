@@ -7,7 +7,7 @@
   - Navegadores y Herramientas
   - El DOM (investigando el DOM usando algunas herramientas)
   - Un Pequeño Ejemplo usando HTML para inspeccionar páginas
-- CSS: Introducción
+- CSS 2.1: Introducción
   - Embeber estilos
   - Selectores, Reglas y Estilos
   - El Box Model
@@ -16,7 +16,7 @@
   - Hacer commits y subir a un repositorio remoto
 
 ## Clase 2:
-- CSS: Parte 2
+- CSS 2.1: Parte 2
   - Posicionamiento y Flotado
   - Fuentes, Imágenes, Video, Audio y otros elementos estáticos
   - Maquetación Simple: Maquetado de 2 layouts clásicos
@@ -29,7 +29,7 @@
 - Javascript: Parte 2
   - Alcance y Contexto
   - Principios de Programación Funcional
-- CSS: Parte 3
+- CSS 2.1: Parte 3
   - Maquetación Compleja: Maquetado complejo, con distintos posicionamientos y otras complicaciones
 
 ## Clase 4:
@@ -54,4 +54,4 @@
 
 ## Clase 6
 - Construcción de una SPA(Single Page Applications)
-  - NOTA: Preguntar si desean Angular o Backbone. Los puntos dependen de esta elección.
+  - Usar Backbone
